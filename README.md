@@ -7,6 +7,8 @@
 Generate hashtags from the URLs of bad tweets, to coordinate dunks on the original tweet
 **without** boosting said tweet's status in the Twitter Algorithm.
 
+> *[**Don't Dunk the Guunk**: How to Avoid Accidentally Amplifying Assholes on Twitter](https://soatok.blog/2022/01/12/dont-dunk-the-gunk/)*
+
 ![Just say No to bad opinions.](https://raw.githubusercontent.com/soatok/soatok/master/stickers/SoatokTelegrams2020-04.png)
 
 ## The Problem
