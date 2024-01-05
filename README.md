@@ -1,6 +1,5 @@
 # Dunktags
-
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsoatok%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/soatok)  
+  
 [![Linux Build Status](https://travis-ci.org/soatok/dunktags.svg?branch=master)](https://travis-ci.org/soatok/dunktags)
 [![npm version](https://img.shields.io/npm/v/dunktags.svg)](https://npm.im/dunktags)
 
